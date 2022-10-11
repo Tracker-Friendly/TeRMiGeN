@@ -34,4 +34,6 @@ Me
 ------------------------------
 NOTES
 ------------------------------
-This is just a fun little project, be kind to people online, and don't be a ****!
+This is just a fun little project, be kind to people online, don't be a sour ball!
+
+This bot has super cow powers
