@@ -1,4 +1,4 @@
-# Johnson
+# Johnason
 
 The Johnason spambot client
 
@@ -6,17 +6,17 @@ The Johnason spambot client
 
 This does not require a jailbreak of any kind. This was created via Siri Scripting (shortcuts)
 
-------------------------------
+
 INSTALLATION
 ------------------------------
 Download spambot.shortcut and open it to intstall
 
-------------------------------
+
 UNINSTALL
 ------------------------------
 Select it in the shortcuts app and press delete
 
-------------------------------
+
 FEATURES
 ------------------------------
 Spamming messages and emails
@@ -26,12 +26,12 @@ Changing the email address
 *NEW* Updating and checking for updates
 *UPCOMING* Spamming files and images
 
-------------------------------
+
 CREDITS
 ------------------------------
 Me
 
-------------------------------
+
 NOTES
 ------------------------------
 This is just a fun little project, be kind to people online, don't be a sour ball!
