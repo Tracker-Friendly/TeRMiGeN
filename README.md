@@ -1,6 +1,6 @@
-# Johnason
+# TeRMiGEN
 
-The Johnason spambot client
+The TeRMiGEN spambot client
 
 *PLEASE NOTE*
 
@@ -9,7 +9,7 @@ This does not require a jailbreak of any kind. This was created via Siri Scripti
 
 Installation
 ------------------------------
-Download spambot.shortcut and open it to intstall
+Download TeRMiGEN.shortcut and open it to intstall
 
 
 Uninstall
@@ -20,10 +20,15 @@ Select it in the shortcuts app and press delete
 Features
 ------------------------------
 Spamming messages and emails
+
 Spamming people not in your contacts
+
 Changing the email address
+
 *NEW* Changing the codeword for "spam", "spamming" and "victim"
+
 *NEW* Updating and checking for updates
+
 *UPCOMING* Spamming files and images
 
 
